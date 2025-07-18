@@ -40,6 +40,7 @@ Ajout de Couleurs :
 -Configure un formulaire pour permettre à l'utilisateur d'ajouter une nouvelle couleur.
 -Empêche le comportement par défaut du formulaire pour éviter le rechargement de la page.
 -Ajoute la nouvelle couleur au tableau et mets à jour l'affichage.
+-Re afficher la liste de couleurs avec la function créer plus tôt.
 
 Changement de Couleur de Fond :
 
